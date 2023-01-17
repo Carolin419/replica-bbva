@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+
+.cl-rosa {
+    color: blueviolet;
+}
+
+a {
+    color: aquamarine !important;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+.row div {
+    border: 1px solid white;
+}
