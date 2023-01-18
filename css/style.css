@@ -1,19 +1,60 @@
-h1 {
-    color: blue;
-}
-
-.cl-rosa {
-    color: blueviolet;
-}
-
 a {
-    color: aquamarine !important;
+    color: rgb(255, 255, 255) !important;
+    font-weight: bold !important;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 body {
-    background-color: black;
-    color: white;
+    background-color: rgb(255, 255, 255);
+
 }
-.row div {
-    border: 1px solid white;
+
+nav {
+    background-color: #072146;
+    font-size: 14px;
+    align-items: center;
+    
+}
+
+p {
+    font-size: 16px;
+}
+
+.contenedor {
+    padding: 50px;
+    width: 80%;
+    background-color: #eaf9fa;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+h4 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 22px;
+}
+
+.container-fluid {
+    padding: 280px;
+    width: 100%;
+    background-color: #004481;
+}
+
+.titulo {
+color: #efc650;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+font-weight: bolder;
+}
+
+line {
+    border-top: 1px solid #efc650;
+    padding-bottom: 1.6rem;
+    width: 10%;
 }
