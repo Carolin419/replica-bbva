@@ -53,8 +53,40 @@ font-size: 24px;
 font-weight: bolder;
 }
 
-line {
-    border-top: 1px solid #efc650;
-    padding-bottom: 1.6rem;
-    width: 10%;
+.sub {
+    font-size: 200px;
+}
+
+.lista {
+    font-size: 50px;
+}
+
+.text {
+    color: #004481;
+    font-weight: bolder;
+
+}
+
+.contenedor-2 {
+    padding: 90px;
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    font-size: 1cm;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+    color: black;
+}
+
+.boton {
+   background-color:#006c6c;
+   border-bottom-style: none;
+   border-bottom-left-radius: 0%;
+   border-bottom-right-radius: 0%;
+   border-top-left-radius: 0%;
+   border-top-right-radius: 0%;
+   width: 150px;
+   height: 50px;
+
 }
