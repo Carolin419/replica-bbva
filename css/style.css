@@ -15,7 +15,7 @@ nav {
     background-color: #072146;
     font-size: 14px;
     align-items: center;
-    
+
 }
 
 p {
@@ -47,10 +47,10 @@ h4 {
 }
 
 .titulo {
-color: #efc650;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 24px;
-font-weight: bolder;
+    color: #efc650;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
 }
 
 .sub {
@@ -79,14 +79,45 @@ font-weight: bolder;
     color: black;
 }
 
-.boton {
-   background-color:#006c6c;
-   border-bottom-style: none;
-   border-bottom-left-radius: 0%;
-   border-bottom-right-radius: 0%;
-   border-top-left-radius: 0%;
-   border-top-right-radius: 0%;
-   width: 150px;
-   height: 50px;
+.contenedor-3 {
+    background-color: white;
+}
 
+.boton {
+    background-color: #006c6c;
+    border-bottom-style: none;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+    width: 150px;
+    height: 50px;
+
+}
+
+table,
+th,
+td
+ {
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid rgb(136, 130, 130);
+}
+
+.numero {
+    font-size: 40px;
+    border-style: none;
+    padding: 12px;
+    padding-left: 15px;
+    color: rgb(63, 63, 63);
+}
+
+.texto {
+    text-align: left;
+    border-style: none;
+    padding-right: 20px;
+    padding-left: 15px;
+    color: rgb(63, 63, 63);
 }
