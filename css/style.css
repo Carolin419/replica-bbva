@@ -53,9 +53,6 @@ h4 {
     font-weight: bolder;
 }
 
-.sub {
-    font-size: 200px;
-}
 
 .lista {
     font-size: 50px;
@@ -120,4 +117,26 @@ td
     padding-right: 20px;
     padding-left: 15px;
     color: rgb(63, 63, 63);
+}
+
+
+.sub {
+    font-size: 15px;
+    font-weight: bolder;
+    color: #1e9292;
+    line-height: 40px;
+}
+
+.sub-2 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: #004481;
+    line-height: 35px;
+    margin-left: none;
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+
 }

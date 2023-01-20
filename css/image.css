@@ -20,3 +20,9 @@ img {
     height: 2%;
     color: #004481;
 }
+
+.img-2 {
+    width: auto;
+    height: 390px;
+    margin-left: 80px;
+}
